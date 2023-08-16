@@ -37,7 +37,7 @@
 } 
 
 @media (max-width: 800px) {
-.footer-container{
+.footer-cont{
   grid-template-columns: 1fr;
   gap: 40px;
  
